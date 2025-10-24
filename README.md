@@ -3,7 +3,7 @@
 A modern and fully responsive **Razorpay landing page clone** built using **HTML, CSS**.  
 This project recreates the official Razorpay website's design and layout with clean UI components, smooth animations, and responsive design principles.
 
-🔗 **Live Demo:** [razorpay-landingpage.netlify.app](https://razorpay-landingpage.netlify.app/)
+🔗 **Live Demo:** [razorpay-landingpage.netlify.app](https://landing-page-razor-pay-demo.netlify.app/)
 
 ---
 
